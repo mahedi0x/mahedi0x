@@ -1,8 +1,12 @@
-### Hi there 👋, I'm Mahedi Hasan
-#### Web Developer
 ![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFcL_WQSU7zdg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714182697992?e=1756944000&v=beta&t=vmvFGGsCYictnkFCUv9olRAfwexvZZOXOKXWGDf_4QY)
 
-Hello! 
+## Hi there, I'm Mahedi Hasan 👋
+##### 😊 I am Web Developer
+##### 👨‍💻 Love to write Code
+##### 🧠 Like to share my knowledge 
+
+
+
 I'm Mahedi Hasan, a dedicated Full Stack Developer with a strong passion for building dynamic and responsive web applications. I thrive on bringing ideas to life through code, focusing on clean architecture, efficient algorithms, and an exceptional user experience.
 
 With expertise in both front-end and back-end technologies, I enjoy tackling complex challenges and continuously learning new tools and frameworks. My goal is to create impactful and scalable solutions that address real-world problems
