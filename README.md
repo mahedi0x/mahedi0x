@@ -7,6 +7,8 @@
 
 
 
+
+
 I'm Mahedi Hasan, a dedicated Full Stack Developer with a strong passion for building dynamic and responsive web applications. I thrive on bringing ideas to life through code, focusing on clean architecture, efficient algorithms, and an exceptional user experience.
 
 With expertise in both front-end and back-end technologies, I enjoy tackling complex challenges and continuously learning new tools and frameworks. My goal is to create impactful and scalable solutions that address real-world problems
@@ -17,6 +19,8 @@ Skills: HTML / CSS / JS / REACT / Next.js / Python / PHP
 - 🤔 I’m looking for help with effective security practices for modern web applications  
 - 📫 How to reach me: mahedi.swe04@gmail.com 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedi0x&label=Profile%20views&color=0e75b6&style=flat" alt="mahedi0x" /> </p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahedi0x)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahedi0x//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahdihasan.sun)  
 
