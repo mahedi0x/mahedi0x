@@ -1,7 +1,5 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFcL_WQSU7zdg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714182697992?e=1756944000&v=beta&t=vmvFGGsCYictnkFCUv9olRAfwexvZZOXOKXWGDf_4QY" width="100%" />
-</div>
+<!--- banner --->
+<img src="./1714182697992.jpeg" alt="Hello world">
 
 <br/>
 
