@@ -1,11 +1,15 @@
 <!--- banner --->
 <img src="./1714182697992.jpeg" alt="Hello world">
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Mahedi+Hasan+👋;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <br/>
 
 <div align="center">
-
-# <span style="color:#bb86fc;">Hi, I'm Mahedi Hasan 👋</span>
 ### <span style="color:#b3b3b3;">A Passionate Full Stack Web Developer</span>
 
 <a href="#"><img src="https://komarev.com/ghpvc/?username=mahedi0x&label=Profile%20Views&color=blueviolet&style=flat" /></a>
