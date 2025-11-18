@@ -1,40 +1,106 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFcL_WQSU7zdg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714182697992?e=1756944000&v=beta&t=vmvFGGsCYictnkFCUv9olRAfwexvZZOXOKXWGDf_4QY)
+<!-- Banner -->
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFcL_WQSU7zdg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714182697992?e=1756944000&v=beta&t=vmvFGGsCYictnkFCUv9olRAfwexvZZOXOKXWGDf_4QY" width="100%" />
+</div>
 
-## Hi there, I'm Mahedi Hasan 👋
-##### 😊 I am Web Developer
-##### 👨‍💻 Love to write Code
-##### 🧠 Like to share my knowledge 
+<br/>
 
+<div align="center">
 
+# <span style="color:#bb86fc;">Hi, I'm Mahedi Hasan 👋</span>
+### <span style="color:#b3b3b3;">A Passionate Full Stack Web Developer</span>
 
+<a href="#"><img src="https://komarev.com/ghpvc/?username=mahedi0x&label=Profile%20Views&color=blueviolet&style=flat" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Repos-20-blueviolet"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Commits%20this%20month-70-success"/></a>
 
+</div>
 
-I'm Mahedi Hasan, a dedicated Full Stack Developer with a strong passion for building dynamic and responsive web applications. I thrive on bringing ideas to life through code, focusing on clean architecture, efficient algorithms, and an exceptional user experience.
+---
 
-With expertise in both front-end and back-end technologies, I enjoy tackling complex challenges and continuously learning new tools and frameworks. My goal is to create impactful and scalable solutions that address real-world problems
+## 👨‍💻 **About Me**
 
-Skills: HTML / CSS / JS / REACT / Next.js / Python / PHP
+I'm **Mahedi Hasan**, a passionate **Full Stack Developer** who loves crafting dynamic, user-friendly, and scalable digital experiences.  
+I enjoy solving real-world problems using clean architecture and modern technologies.
 
-- 🌱 I’m currently learning machine learning fundamentals to integrate AI features into web apps. 
-- 🤔 I’m looking for help with effective security practices for modern web applications  
-- 📫 How to reach me: mahedi.swe04@gmail.com 
+✨ I love exploring new tools, coding patterns, and breaking complex ideas into simple solutions.  
+✨ Currently working on Full Stack Web Development + sharpening my Data Structures & Algorithms.
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedi0x&label=Profile%20views&color=0e75b6&style=flat" alt="mahedi0x" /> </p>
+## 🛠️ **Technology Stack**  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahedi0x)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahedi0x//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahdihasan.sun)  
+<div align="center">
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+<!-- Tech logos -->
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,python,php,mysql,git,github" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahedi0x)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahedi0x)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahedi0x&show_icons=true&count_private=true)  
+## 🚀 **What I'm Doing Now**
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mahedi0x/contributions?format=svg&private=true)  
+- 🌱 Learning Machine Learning to integrate AI into web apps  
+- 🤔 Improving advanced security practices  
+- 📫 Email: **mahedi.swe04@gmail.com**  
+- 🌐 Portfolio coming soon...
 
-![GitHub metrics](https://metrics.lecoq.io/mahedi0x)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mahedi0x)  
+# 📊 **My GitHub Stats**
 
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mahedi0x&show_icons=true&theme=tokyonight&count_private=true" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahedi0x&layout=compact&theme=tokyonight" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=mahedi0x&theme=tokyonight" width="80%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahedi0x&theme=tokyonight&no-frame=true&margin-w=10" />
+
+<br/><br/>
+
+<img src="https://api.vaunt.dev/v1/github/entities/mahedi0x/contributions?format=svg&private=true&theme=dark" width="80%" />
+
+</div>
+
+---
+
+# 🔥 **Contribution Graph**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mahedi0x/mahedi0x/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌐 **Connect with Me**
+
+<p align="left">
+<a href="https://github.com/mahedi0x"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" height="35"/></a>
+<a href="https://www.linkedin.com/in/mahedi0x/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" height="35"/></a>
+<a href="https://www.facebook.com/mahdihasan.sun"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" height="35"/></a>
+</p>
+
+---
+
+<div align="center">
+
+## ✨ _Thanks for visiting! Keep Coding & Keep Growing_ ✨
+
+</div>
