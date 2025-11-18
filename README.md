@@ -61,6 +61,12 @@ I enjoy solving real-world problems using clean architecture and modern technolo
   </tr>
 </table>
 
+<div align="center">
+  
+![snake gif](https://github.com/sajid-7756/sajid-7756/blob/output/github-snake-dark.svg)
+
+</div>
+
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=mahedi0x&theme=tokyonight" width="80%" />
@@ -74,6 +80,8 @@ I enjoy solving real-world problems using clean architecture and modern technolo
 <img src="https://api.vaunt.dev/v1/github/entities/mahedi0x/contributions?format=svg&private=true&theme=dark" width="80%" />
 
 </div>
+
+
 
 ---
 
