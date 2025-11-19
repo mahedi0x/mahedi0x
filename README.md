@@ -10,12 +10,12 @@
 <br/>
 
 <div align="center">
+  
 ### <span style="color:#b3b3b3;">A Passionate Full Stack Web Developer</span>
 
 <a href="#"><img src="https://komarev.com/ghpvc/?username=mahedi0x&label=Profile%20Views&color=blueviolet&style=flat" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Repos-20-blueviolet"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Commits%20this%20month-70-success"/></a>
-
 </div>
 
 ---
