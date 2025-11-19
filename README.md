@@ -50,6 +50,26 @@ I enjoy solving real-world problems using clean architecture and modern technolo
 
 ---
 
+## 🌐 <strong>Connect with Me</strong>
+
+<div align="">
+
+<a href="https://github.com/mahedi0x" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" style="margin: 10px;"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mahedi0x/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="margin: 10px;"/>
+</a>
+
+<a href="https://www.facebook.com/mahdihasan.sun" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" height="50" style="margin: 10px;"/>
+</a>
+
+</div>
+
+
+
 # 📊 **My GitHub Stats**
 
 <div align="center">
@@ -71,7 +91,12 @@ I enjoy solving real-world problems using clean architecture and modern technolo
 
 </div>
 
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahedi0x&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
+
 <br/>
+
+# 🔥 **Contribution Graph**
 
 <img src="https://streak-stats.demolab.com/?user=mahedi0x&theme=tokyonight" width="80%" />
 
@@ -85,29 +110,6 @@ I enjoy solving real-world problems using clean architecture and modern technolo
 
 </div>
 
-
-
----
-
-# 🔥 **Contribution Graph**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mahedi0x/mahedi0x/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🌐 **Connect with Me**
-
-<p align="left">
-<a href="https://github.com/mahedi0x"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" height="35"/></a>
-<a href="https://www.linkedin.com/in/mahedi0x/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" height="35"/></a>
-<a href="https://www.facebook.com/mahdihasan.sun"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" height="35"/></a>
-</p>
-
----
 
 <div align="center">
 
