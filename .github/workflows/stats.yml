@@ -16,7 +16,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python assets/stats.py
+      - run: |
+          python assets/stats.py
+          python assets/neofetch.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
@@ -24,6 +26,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats-card.svg
+          git add assets/stats-card.svg assets/neofetch-card.svg
           git diff --cached --quiet || git commit -m "chore: refresh stats card"
           git push
