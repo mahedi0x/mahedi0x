@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" fill="none" xml:space="preserve">
+<defs>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7AA2F7"/><stop offset=".5" stop-color="#BB9AF7"/><stop offset="1" stop-color="#7DCFFF"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" stroke="#1F2A44" stroke-width="1" opacity=".45"/>
+  </pattern>
+  <radialGradient id="core"><stop offset="0" stop-color="#BB9AF7" stop-opacity=".55"/><stop offset="1" stop-color="#BB9AF7" stop-opacity="0"/></radialGradient>
+</defs>
+<style></style>
+<rect x=".5" y=".5" width="1199" height="599" rx="18" fill="#0B0F1A" stroke="#1F2A44"/>
+
+<rect width="1200" height="600" rx="18" fill="url(#grid)" opacity=".6"/>
+<text x="40" y="54" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#7A84A8">// tech stack in orbit</text>
+<text x="40" y="566" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7A84A8">inner: frontend &amp; runtime   ·   outer: languages, data &amp; tools</text>
+<circle cx="600.0" cy="300.0" r="150" stroke="#1F2A44" stroke-dasharray="4 8"/><circle cx="600.0" cy="300.0" r="240" stroke="#1F2A44" stroke-dasharray="4 8"/>
+<circle cx="600.0" cy="300.0" r="110" fill="url(#core)"/>
+<circle cx="600.0" cy="300.0" r="54" fill="#111729" stroke="url(#brand)" stroke-width="2"/>
+<text x="600.0" y="311.0" text-anchor="middle" font-family="'Segoe UI','Inter',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="url(#brand)">MH</text>
+
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 600.0 300.0" to="-360 600.0 300.0" dur="40s" repeatCount="indefinite"/>
+  
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 600.0 150.0" to="360 600.0 150.0" dur="40s" repeatCount="indefinite"/>
+  <rect x="560.5" y="133.0" width="79.0" height="34" rx="17" fill="#111729" stroke="#61DAFB" stroke-opacity=".7"/>
+  <circle cx="574.5" cy="150.0" r="4" fill="#61DAFB"/>
+  <text x="606.0" y="155.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">React</text>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 742.7 253.6" to="360 742.7 253.6" dur="40s" repeatCount="indefinite"/>
+  <rect x="693.6" y="236.6" width="98.2" height="34" rx="17" fill="#111729" stroke="#FFFFFF" stroke-opacity=".7"/>
+  <circle cx="707.6" cy="253.6" r="4" fill="#FFFFFF"/>
+  <text x="748.7" y="258.6" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">Next.js</text>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 688.2 421.4" to="360 688.2 421.4" dur="40s" repeatCount="indefinite"/>
+  <rect x="639.1" y="404.4" width="98.2" height="34" rx="17" fill="#111729" stroke="#5FA04E" stroke-opacity=".7"/>
+  <circle cx="653.1" cy="421.4" r="4" fill="#5FA04E"/>
+  <text x="694.2" y="426.4" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">Node.js</text>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 511.8 421.4" to="360 511.8 421.4" dur="40s" repeatCount="indefinite"/>
+  <rect x="448.3" y="404.4" width="127.0" height="34" rx="17" fill="#111729" stroke="#F7DF1E" stroke-opacity=".7"/>
+  <circle cx="462.3" cy="421.4" r="4" fill="#F7DF1E"/>
+  <text x="517.8" y="426.4" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">JavaScript</text>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 457.3 253.6" to="360 457.3 253.6" dur="40s" repeatCount="indefinite"/>
+  <rect x="403.4" y="236.6" width="107.8" height="34" rx="17" fill="#111729" stroke="#38BDF8" stroke-opacity=".7"/>
+  <circle cx="417.4" cy="253.6" r="4" fill="#38BDF8"/>
+  <text x="463.3" y="258.6" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">Tailwind</text>
+</g>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 600.0 300.0" to="360 600.0 300.0" dur="60s" repeatCount="indefinite"/>
+  
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 600.0 60.0" to="-360 600.0 60.0" dur="60s" repeatCount="indefinite"/>
+  <rect x="560.5" y="43.0" width="79.0" height="34" rx="17" fill="#111729" stroke="#E34F26" stroke-opacity=".7"/>
+  <circle cx="574.5" cy="60.0" r="4" fill="#E34F26"/>
+  <text x="606.0" y="65.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">HTML5</text>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 787.6 150.4" to="-360 787.6 150.4" dur="60s" repeatCount="indefinite"/>
+  <rect x="752.9" y="133.4" width="69.4" height="34" rx="17" fill="#111729" stroke="#1572B6" stroke-opacity=".7"/>
+  <circle cx="766.9" cy="150.4" r="4" fill="#1572B6"/>
+  <text x="793.6" y="155.4" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">CSS3</text>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 834.0 353.4" to="-360 834.0 353.4" dur="60s" repeatCount="indefinite"/>
+  <rect x="789.7" y="336.4" width="88.6" height="34" rx="17" fill="#111729" stroke="#FFD43B" stroke-opacity=".7"/>
+  <circle cx="803.7" cy="353.4" r="4" fill="#FFD43B"/>
+  <text x="840.0" y="358.4" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">Python</text>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 704.1 516.2" to="-360 704.1 516.2" dur="60s" repeatCount="indefinite"/>
+  <rect x="674.2" y="499.2" width="59.8" height="34" rx="17" fill="#111729" stroke="#8892BF" stroke-opacity=".7"/>
+  <circle cx="688.2" cy="516.2" r="4" fill="#8892BF"/>
+  <text x="710.1" y="521.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">PHP</text>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 495.9 516.2" to="-360 495.9 516.2" dur="60s" repeatCount="indefinite"/>
+  <rect x="456.4" y="499.2" width="79.0" height="34" rx="17" fill="#111729" stroke="#4479A1" stroke-opacity=".7"/>
+  <circle cx="470.4" cy="516.2" r="4" fill="#4479A1"/>
+  <text x="501.9" y="521.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">MySQL</text>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 366.0 353.4" to="-360 366.0 353.4" dur="60s" repeatCount="indefinite"/>
+  <rect x="336.1" y="336.4" width="59.8" height="34" rx="17" fill="#111729" stroke="#F05032" stroke-opacity=".7"/>
+  <circle cx="350.1" cy="353.4" r="4" fill="#F05032"/>
+  <text x="372.0" y="358.4" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">Git</text>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 412.4 150.4" to="-360 412.4 150.4" dur="60s" repeatCount="indefinite"/>
+  <rect x="368.1" y="133.4" width="88.6" height="34" rx="17" fill="#111729" stroke="#E6EDF3" stroke-opacity=".7"/>
+  <circle cx="382.1" cy="150.4" r="4" fill="#E6EDF3"/>
+  <text x="418.4" y="155.4" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">GitHub</text>
+</g>
+</g>
+</svg>

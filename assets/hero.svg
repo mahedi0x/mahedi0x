@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" xml:space="preserve">
+<defs>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7AA2F7"/><stop offset=".5" stop-color="#BB9AF7"/><stop offset="1" stop-color="#7DCFFF"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" stroke="#1F2A44" stroke-width="1" opacity=".45"/>
+  </pattern>
+  
+  <radialGradient id="g1"><stop offset="0" stop-color="#7AA2F7" stop-opacity=".45"/><stop offset="1" stop-color="#7AA2F7" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2"><stop offset="0" stop-color="#BB9AF7" stop-opacity=".35"/><stop offset="1" stop-color="#BB9AF7" stop-opacity="0"/></radialGradient>
+  <clipPath id="card"><rect width="1200" height="360" rx="18"/></clipPath>
+</defs>
+<style>
+    .role{opacity:0;animation:cycle 12.8s infinite}
+    .r0{animation-delay:0.0s}.r1{animation-delay:3.2s}.r2{animation-delay:6.4s}.r3{animation-delay:9.600000000000001s}
+    @keyframes cycle{0%{opacity:0;transform:translateY(8px)}
+      3%,21.0%{opacity:1;transform:translateY(0)}
+      25.0%,100%{opacity:0;transform:translateY(-8px)}}
+    .blink{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .float{animation:float 7s ease-in-out infinite}
+    .float2{animation:float 9s ease-in-out infinite reverse}
+    @keyframes float{50%{transform:translate(18px,-12px)}}
+    .dot{animation:pulse 2s ease-in-out infinite}
+    @keyframes pulse{50%{opacity:.3}}
+    </style>
+<rect x=".5" y=".5" width="1199" height="359" rx="18" fill="#0B0F1A" stroke="#1F2A44"/>
+
+<g clip-path="url(#card)">
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <circle class="float" cx="980" cy="70" r="260" fill="url(#g1)"/>
+  <circle class="float2" cx="160" cy="330" r="220" fill="url(#g2)"/>
+</g>
+<text x="80" y="96" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="18" fill="#7A84A8">// hello world</text>
+<text x="80" y="164" font-family="'Segoe UI','Inter',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="56" font-weight="800" fill="#C0CAF5">Hi, I'm <tspan fill="url(#brand)">Mahedi Hasan</tspan></text>
+<text class="role r0" x="80" y="232" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="26" fill="#7DCFFF"><tspan fill="#9ECE6A">&gt; </tspan>Full Stack Web Developer</text><text class="role r1" x="80" y="232" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="26" fill="#7DCFFF"><tspan fill="#9ECE6A">&gt; </tspan>React &amp; Next.js on the front</text><text class="role r2" x="80" y="232" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="26" fill="#7DCFFF"><tspan fill="#9ECE6A">&gt; </tspan>Node.js, Python &amp; PHP on the back</text><text class="role r3" x="80" y="232" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="26" fill="#7DCFFF"><tspan fill="#9ECE6A">&gt; </tspan>Learning ML to bring AI into web apps</text>
+<rect class="blink" x="80" y="252" width="14" height="4" fill="#7DCFFF"/>
+<g transform="translate(80 290)">
+  <circle class="dot" cx="6" cy="0" r="5" fill="#9ECE6A"/>
+  <text x="20" y="5" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#7A84A8">github.com/mahedi0x  ·  mahedi.swe04@gmail.com</text>
+</g>
+<g transform="translate(830 92)">
+  <rect width="300" height="186" rx="12" fill="#111729" stroke="#1F2A44"/>
+  <circle cx="20" cy="18" r="5" fill="#F7768E"/><circle cx="38" cy="18" r="5" fill="#E0AF68"/><circle cx="56" cy="18" r="5" fill="#9ECE6A"/>
+  <text x="280" y="22" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7A84A8">dev.js</text>
+  <text x="20" y="58" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15"><tspan fill="#BB9AF7">const</tspan><tspan fill="#C0CAF5"> dev</tspan><tspan fill="#7A84A8"> = {</tspan></text><text x="20" y="82" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15"><tspan fill="#7AA2F7">  name</tspan><tspan fill="#9ECE6A">: "Mahedi"</tspan><tspan fill="#7A84A8">,</tspan></text><text x="20" y="106" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15"><tspan fill="#7AA2F7">  stack</tspan><tspan fill="#9ECE6A">: "MERN+"</tspan><tspan fill="#7A84A8">,</tspan></text><text x="20" y="130" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15"><tspan fill="#7AA2F7">  coffee</tspan><tspan fill="#FF9E64">: Infinity</tspan><tspan fill="#7A84A8">,</tspan></text><text x="20" y="154" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15"><tspan fill="#7AA2F7">  learning</tspan><tspan fill="#9ECE6A">: "ML"</tspan><tspan fill="#7A84A8"></tspan></text><text x="20" y="178" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15"><tspan fill="#7A84A8">}</tspan><tspan fill="#C0CAF5"></tspan><tspan fill="#7A84A8">;</tspan></text>
+</g>
+</svg>

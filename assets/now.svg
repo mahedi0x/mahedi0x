@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="314" viewBox="0 0 1200 314" fill="none" xml:space="preserve">
+<defs>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7AA2F7"/><stop offset=".5" stop-color="#BB9AF7"/><stop offset="1" stop-color="#7DCFFF"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" stroke="#1F2A44" stroke-width="1" opacity=".45"/>
+  </pattern>
+  
+</defs>
+<style>.l0{opacity:0;animation:in .5s ease-out 0.40s forwards}.l1{opacity:0;animation:in .5s ease-out 0.85s forwards}.l2{opacity:0;animation:in .5s ease-out 1.30s forwards}.l3{opacity:0;animation:in .5s ease-out 1.75s forwards}.l4{opacity:0;animation:in .5s ease-out 2.20s forwards}.l5{opacity:0;animation:in .5s ease-out 2.65s forwards}.l6{opacity:0;animation:in .5s ease-out 3.10s forwards}@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}.blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}</style>
+<rect x=".5" y=".5" width="1199" height="313" rx="18" fill="#0B0F1A" stroke="#1F2A44"/>
+
+<rect x="1" y="1" width="1198" height="44" rx="17" fill="#111729"/>
+<rect x="1" y="30" width="1198" height="16" fill="#111729"/>
+<line x1="0" y1="46" x2="1200" y2="46" stroke="#1F2A44"/>
+<circle cx="28" cy="23" r="6" fill="#F7768E"/><circle cx="48" cy="23" r="6" fill="#E0AF68"/><circle cx="68" cy="23" r="6" fill="#9ECE6A"/>
+<text x="600.0" y="28" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#7A84A8">mahedi@github: ~/now</text>
+<text x="44" y="78" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19"><tspan fill="#9ECE6A">$</tspan><tspan fill="#C0CAF5"> cat status.txt</tspan></text>
+<text class="l0" x="44" y="108" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19"><tspan fill="#9ECE6A">building   </tspan><tspan fill="#7A84A8">→ </tspan><tspan fill="#C0CAF5">dynamic, scalable full stack web apps</tspan></text><text class="l1" x="44" y="142" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19"><tspan fill="#7DCFFF">learning   </tspan><tspan fill="#7A84A8">→ </tspan><tspan fill="#C0CAF5">Machine Learning to integrate AI into web apps</tspan></text><text class="l2" x="44" y="176" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19"><tspan fill="#FF9E64">improving  </tspan><tspan fill="#7A84A8">→ </tspan><tspan fill="#C0CAF5">advanced web security practices</tspan></text><text class="l3" x="44" y="210" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19"><tspan fill="#BB9AF7">practicing </tspan><tspan fill="#7A84A8">→ </tspan><tspan fill="#C0CAF5">Data Structures &amp; Algorithms</tspan></text><text class="l4" x="44" y="244" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19"><tspan fill="#E0AF68">portfolio  </tspan><tspan fill="#7A84A8">→ </tspan><tspan fill="#C0CAF5">coming soon...</tspan></text><text class="l5" x="44" y="278" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19"><tspan fill="#7AA2F7">contact    </tspan><tspan fill="#7A84A8">→ </tspan><tspan fill="#C0CAF5">mahedi.swe04@gmail.com</tspan></text>
+<text class="l6" x="44" y="312" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" fill="#9ECE6A">$<tspan class="blink" fill="#C0CAF5"> _</tspan></text>
+</svg>

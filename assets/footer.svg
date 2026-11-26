@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" fill="none" xml:space="preserve">
+<defs>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7AA2F7"/><stop offset=".5" stop-color="#BB9AF7"/><stop offset="1" stop-color="#7DCFFF"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" stroke="#1F2A44" stroke-width="1" opacity=".45"/>
+  </pattern>
+  <clipPath id="card"><rect width="1200" height="200" rx="18"/></clipPath>
+</defs>
+<style>.w1{animation:wave 8s linear infinite}.w2{animation:wave 12s linear infinite reverse}
+    @keyframes wave{to{transform:translateX(-600px)}}</style>
+<rect x=".5" y=".5" width="1199" height="199" rx="18" fill="#0B0F1A" stroke="#1F2A44"/>
+
+<g clip-path="url(#card)">
+  <path class="w2" d="M0 150 Q75 132 150 150 T300 150 Q375 132 450 150 T600 150 Q675 132 750 150 T900 150 Q975 132 1050 150 T1200 150 Q1275 132 1350 150 T1500 150 Q1575 132 1650 150 T1800 150 Q1875 132 1950 150 T2100 150 Q2175 132 2250 150 T2400 150 V200 H0Z" fill="#BB9AF7" opacity=".18"/>
+  <path class="w1" d="M0 160 Q75 146 150 160 T300 160 Q375 146 450 160 T600 160 Q675 146 750 160 T900 160 Q975 146 1050 160 T1200 160 Q1275 146 1350 160 T1500 160 Q1575 146 1650 160 T1800 160 Q1875 146 1950 160 T2100 160 Q2175 146 2250 160 T2400 160 V200 H0Z" fill="#7AA2F7" opacity=".22"/>
+</g>
+<text x="600.0" y="84" text-anchor="middle" font-family="'Segoe UI','Inter',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="url(#brand)">Thanks for visiting!</text>
+<text x="600.0" y="122" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#7A84A8">Keep Coding &amp; Keep Growing  ·  github.com/mahedi0x</text>
+</svg>
