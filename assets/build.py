@@ -287,4 +287,4 @@ def footer():
 
 
 if __name__ == "__main__":
-    hero(); now(); neofetch(); orbit(); footer()
+    hero(); now(); orbit(); footer()  # neofetch-card.svg is made by neofetch.py
