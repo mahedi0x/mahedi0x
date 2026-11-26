@@ -93,13 +93,18 @@ def render(gh):
     rows, cols = art["rows"], art["cols"]
     fs, lh = 6.9, 6.7
     art_w = 500
-    art_svg = []
+    # Every run of characters is placed at its own x position, so browsers that
+    # collapse whitespace (GitHub's image view does) cannot squash the portrait.
+    cw = art_w / cols
+    art_cells = []  # (row, x, color, text)
     for i, runs in enumerate(rows):
-        spans = "".join(
-            f'<tspan fill="{c}">{escape(t)}</tspan>' if c else escape(t) for c, t in runs)
-        art_svg.append(
-            f'<text x="34" y="{{OY}}{i}" textLength="{art_w}" lengthAdjust="spacingAndGlyphs">{spans}</text>')
-
+        col = 0
+        for c, t in runs:
+            if c and t.strip():
+                lead = len(t) - len(t.lstrip(" "))
+                body = t.strip(" ")
+                art_cells.append((i, 34 + (col + lead) * cw, c, body))
+            col += len(t)
     x0, x1, y = 560, 1160, 58
     out = [f'<text x="{x0}" y="{y}" fill="{GREEN}" font-weight="700">{USER}@github</text>',
            f'<line x1="{x0 + 150}" y1="{y - 5}" x2="{x1}" y2="{y - 5}" stroke="{DOTS}" stroke-dasharray="4 5"/>']
@@ -143,11 +148,14 @@ def render(gh):
 
     H = int(max(y + 40, len(rows) * lh + 60))
     oy = (H - len(rows) * lh) / 2 + 6
-    art_svg = [t.replace("{OY}" + str(i) + '"', f"{oy + i * lh:.1f}" + '"', 1) for i, t in enumerate(art_svg)]
+    art_svg = [
+        f'<text x="{x:.1f}" y="{oy + i * lh:.1f}" fill="{c}" textLength="{len(t) * cw:.1f}" '
+        f'lengthAdjust="spacingAndGlyphs">{escape(t)}</text>'
+        for i, x, c, t in art_cells]
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" fill="none" xml:space="preserve">
 <style>
-.art text{{font-family:{MONO};font-size:{fs}px;fill:{MUTED}}}
-.info text{{font-family:{MONO};font-size:15px}}
+.art text{{font-family:{MONO};font-size:{fs}px}}
+.info text{{font-family:{MONO};font-size:15px;white-space:pre}}
 .art{{animation:fade 1.6s ease-out both}}
 @keyframes fade{{from{{opacity:0}}to{{opacity:1}}}}
 .cur{{animation:blink 1s steps(1) infinite}}
