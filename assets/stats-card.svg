@@ -3,40 +3,40 @@
 <style>.t{opacity:0;animation:up .6s ease-out forwards}@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}</style>
 <rect x=".5" y=".5" width="1199" height="329" rx="18" fill="#0B0F1A" stroke="#1F2A44"/>
 <text x="40" y="54" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="16"><tspan fill="#9ECE6A">$</tspan><tspan fill="#C0CAF5"> gh stats mahedi0x</tspan></text>
-<text x="1160" y="54" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7A84A8">updated 26 Nov 2026</text>
+<text x="1160" y="54" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7A84A8">updated 27 Nov 2026</text>
 
 <g class="t" style="animation-delay:0.00s">
   <rect x="40" y="84" width="176" height="98" rx="12" fill="#111729" stroke="#1F2A44"/>
-  <text x="58" y="136" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#9ECE6A">—</text>
+  <text x="58" y="136" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#9ECE6A">552</text>
   <text x="58" y="162" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7A84A8">Contributions (1y)</text>
 </g>
 <g class="t" style="animation-delay:0.12s">
   <rect x="230" y="84" width="176" height="98" rx="12" fill="#111729" stroke="#1F2A44"/>
-  <text x="248" y="136" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#7AA2F7">—</text>
+  <text x="248" y="136" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#7AA2F7">534</text>
   <text x="248" y="162" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7A84A8">Commits (1y)</text>
 </g>
 <g class="t" style="animation-delay:0.24s">
   <rect x="420" y="84" width="176" height="98" rx="12" fill="#111729" stroke="#1F2A44"/>
-  <text x="438" y="136" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#BB9AF7">—</text>
+  <text x="438" y="136" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#BB9AF7">0</text>
   <text x="438" y="162" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7A84A8">Pull requests (1y)</text>
 </g>
 <g class="t" style="animation-delay:0.36s">
   <rect x="40" y="196" width="176" height="98" rx="12" fill="#111729" stroke="#1F2A44"/>
-  <text x="58" y="248" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#7DCFFF">—</text>
+  <text x="58" y="248" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#7DCFFF">112</text>
   <text x="58" y="274" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7A84A8">Public repos</text>
 </g>
 <g class="t" style="animation-delay:0.48s">
   <rect x="230" y="196" width="176" height="98" rx="12" fill="#111729" stroke="#1F2A44"/>
-  <text x="248" y="248" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#FF9E64">—</text>
+  <text x="248" y="248" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#FF9E64">1</text>
   <text x="248" y="274" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7A84A8">Stars earned</text>
 </g>
 <g class="t" style="animation-delay:0.60s">
   <rect x="420" y="196" width="176" height="98" rx="12" fill="#111729" stroke="#1F2A44"/>
-  <text x="438" y="248" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#C0CAF5">—</text>
+  <text x="438" y="248" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#C0CAF5">12</text>
   <text x="438" y="274" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7A84A8">Followers</text>
 </g>
 <text x="650" y="80" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#7A84A8">most used languages</text>
 <rect x="650" y="96" width="510" height="12" rx="6" fill="#1F2A44"/>
-<g clip-path="url(#bar)"></g>
-<text x="650" y="150" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#7A84A8">run stats.py to fill this in</text>
+<g clip-path="url(#bar)"><rect x="650.0" y="96" width="351.7" height="12" fill="#F1E05A"/><rect x="1001.7" y="96" width="78.6" height="12" fill="#E34C26"/><rect x="1080.3" y="96" width="33.5" height="12" fill="#663399"/><rect x="1113.8" y="96" width="29.0" height="12" fill="#B07219"/><rect x="1142.8" y="96" width="11.6" height="12" fill="#3572A5"/><rect x="1154.4" y="96" width="5.6" height="12" fill="#F34B7D"/></g>
+<circle cx="656" cy="141" r="6" fill="#F1E05A"/><text x="670" y="146" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">JavaScript<tspan fill="#7A84A8"> 69.0%</tspan></text><circle cx="916" cy="141" r="6" fill="#E34C26"/><text x="930" y="146" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">HTML<tspan fill="#7A84A8"> 15.4%</tspan></text><circle cx="656" cy="175" r="6" fill="#663399"/><text x="670" y="180" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">CSS<tspan fill="#7A84A8"> 6.6%</tspan></text><circle cx="916" cy="175" r="6" fill="#B07219"/><text x="930" y="180" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">Java<tspan fill="#7A84A8"> 5.7%</tspan></text><circle cx="656" cy="209" r="6" fill="#3572A5"/><text x="670" y="214" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">Python<tspan fill="#7A84A8"> 2.3%</tspan></text><circle cx="916" cy="209" r="6" fill="#F34B7D"/><text x="930" y="214" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#C0CAF5">C++<tspan fill="#7A84A8"> 1.1%</tspan></text>
 </svg>
