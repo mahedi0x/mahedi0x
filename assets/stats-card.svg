@@ -3,7 +3,7 @@
 <style>.t{opacity:0;animation:up .6s ease-out forwards}@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}</style>
 <rect x=".5" y=".5" width="1199" height="329" rx="18" fill="#0B0F1A" stroke="#1F2A44"/>
 <text x="40" y="54" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="16"><tspan fill="#9ECE6A">$</tspan><tspan fill="#C0CAF5"> gh stats mahedi0x</tspan></text>
-<text x="1160" y="54" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7A84A8">updated 27 Nov 2026</text>
+<text x="1160" y="54" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7A84A8">updated 28 Nov 2026</text>
 
 <g class="t" style="animation-delay:0.00s">
   <rect x="40" y="84" width="176" height="98" rx="12" fill="#111729" stroke="#1F2A44"/>
